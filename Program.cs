@@ -48,7 +48,7 @@ class Program
                 Console.WriteLine("🎉 Correct! The number was " + secretNumber + "!");
                 Console.WriteLine("You got it in " + tries + " tries!");
                 Console.WriteLine();
-                Console.WriteLine("Snoopy says: Good job, Charlie Brown!");
+                Console.WriteLine("Snoopy says: Good job, Charlie Brown! and GOOD GRIEF!!");
                 break;
             }
         }

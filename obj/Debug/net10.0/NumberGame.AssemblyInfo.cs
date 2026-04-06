@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90cd8b1f345738ecbb05bf2d056f4a64d6fc225f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> parent of 90cd8b1 (Remove obj folder)
 [assembly: System.Reflection.AssemblyProductAttribute("NumberGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
